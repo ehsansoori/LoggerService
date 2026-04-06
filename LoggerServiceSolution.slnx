@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="LoggerService.Console/LoggerService.Console.csproj" Id="9deb179a-ec98-4768-9301-faa6a72897fe" />
+  <Project Path="LoggerService.Core/LoggerService.Core.csproj" Id="630eb279-5bdc-47d0-a665-bdbef6282076" />
+</Solution>
